@@ -1,4 +1,4 @@
-## Falcon, a theme by ThemeWagon team.
+## Web development based on bootstrap
 
 ---
 
