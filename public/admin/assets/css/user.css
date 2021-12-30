@@ -1,0 +1,342 @@
+/* -------------------------------------------------------------------------- */
+/*                                Falcon Button                               */
+/* -------------------------------------------------------------------------- */
+/* prettier-ignore */
+/*# sourceMappingURL=user.css.map */
+body {
+    background: white !important;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+
+.table tr td {
+    padding: 4px;
+}
+
+.table tr th {
+    padding: 4px;
+}
+
+.table thead tr th {
+    background: #00D27A;
+    color: #ffffff;
+}
+
+.table tbody tr td {
+    font-size: 14px;
+}
+
+.navbar {
+    margin-bottom: 32px;
+    background: #00D27A;
+}
+
+.navbar-header img {
+    width: 50px;
+}
+
+.main-content {
+    margin-top: 32px;
+}
+
+.jumbotron {
+    display: flex;
+    padding: 10px 10px 10px 10px;
+    background-color: #00D27A;
+    border-radius: 5px;
+}
+
+.jumbotron .form-control:first-child {
+    width: auto;
+    height: 30px;
+}
+
+.jumbotron .form-control:last-child {
+    width: auto;
+    height: 30px;
+    margin-left: 5px;
+}
+
+.collapse-button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-pills-falcon > button {
+    width: 20%;
+}
+
+.table>:not(caption)>*>* {
+    padding: 4px 0 0 5px;
+}
+
+.group-1 > div:first-child {
+    text-align: center;
+}
+
+.group-1 .table tbody tr th:first-child {
+    background: #00D27A;
+    color: #ffffff;
+}
+
+.group-1 .table tbody tr td:first-child {
+    background: #00D27A;
+    color: #ffffff;
+}
+
+.size_box4 > span {
+    background: #fe572e;
+    color: #ffffff;
+    font-size: 13px;
+    margin-bottom: 2px;
+}
+
+.group-2 .color-blue td:first-child {
+    background: #569EFD;
+    color: white;
+    font-weight: bold;
+}
+
+.group-2 .color-blue td:not(:first-child) {  
+    color: #569EFD;
+    font-weight: bold;
+}
+
+.group-2 .color-green td:first-child {
+    background: #6DCD3F;
+    color: white;
+    font-weight: bold;
+}
+
+.group-2 .color-green td:not(:first-child) {  
+    color: #6DCD3F;
+    font-weight: bold;
+}
+
+.group-2 .color-chocolate td:first-child {
+    background: #EF6433;
+    color: white;
+    font-weight: bold;
+}
+
+.group-2 .color-chocolate td:not(:first-child) {  
+    color: #EF6433;
+    font-weight: bold;
+}
+
+.group-2 .color-darkcyan td:first-child {
+    background: #528C4C;
+    color: white;
+    font-weight: bold;
+}
+
+.group-2 .color-darkcyan td:not(:first-child) {  
+    color: #528C4C;
+    font-weight: bold;
+}
+
+.group-2 thead tr th:not(:last-child) {
+    width: 16.7%;
+}
+
+.group-3 .tabs button {
+    height: 40px;
+    border-radius: 0 !important;
+}
+
+.group-3 .tabs .nav-pills button a {
+    color: #565656;
+}
+
+.group-3 .tabs {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.group-3 .tabs .nav-pills {
+    background: #d9d9d9;
+    border-bottom: 3px solid #00D27A;    
+}
+
+.group-3 .tabs .nav-pills .active{
+    background-color: #00D27A !important;
+}
+
+.group-3 .tabs .nav-pills .active a {
+    color: #ffffff;
+}
+
+.form-radio-check div {
+    width: 50%;
+}
+
+.group-4 p {
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+.group-5 {
+    margin-top: 24px;
+}
+
+.group-5 tr td:first-child {
+    width: 200px;
+}
+
+.group-5 tr td:last-child input {
+    width: 45%;
+}
+
+.group-5 .form-price-check {
+    display: flex;
+}
+
+.group-5 .form-price-check div {
+    margin-left: 15px;
+}
+
+.group-5 .form-radio-check {
+    display: flex;
+}
+
+.group-5 .form-radio-check div:last-child {
+    margin-left: 15px;
+}
+
+.group-5 .table tfoot>tr>th:first-child, .table thead>tr>th:first-child, .table tr th:first-child, .table tr td:first-child {
+    padding-left: 8px;
+}
+
+.group-5 .table tr:last-child td {
+    padding-bottom: 4px;
+}
+
+.group-5 .profit-calc {
+    width: 100%;
+}
+
+.group-5 .profit-calc input {
+    background-color: #00D27A;
+    color: #ffffff;
+    margin-bottom: 16px;
+}
+
+.group-5 .profit-calc .form-control {
+    width: auto;
+    height: 30px;
+}
+
+.group-5 .profit-calc .form-control:hover {
+    background: rgb(72, 187, 223);;
+}
+
+.group-5 .table td.price {
+    color: #ff0000;
+    font-weight: bold;
+    font-size: large;
+}
+
+.group-5 .table .form-check-label {
+    font-weight: 700 !important;
+}
+
+.group-6 {
+    margin-top: 20px;
+}
+
+.group-6 button {
+    background: #00D27A;
+    color: #ffffff;
+}
+
+
+.group-6 button:hover {
+    background: rgb(72, 187, 223);
+    color: #ffffff; 
+}
+
+.group-6 tbody tr td:last-child a {
+    font-size: 14px;
+    color: #337ab7;   
+}
+
+.group-7 {
+    margin-top: 40px;
+}
+
+.group-7 button {
+    background: #00D27A;    
+}
+
+.group-7 button:hover {
+    background: rgb(72, 187, 223);
+    color: #ffffff; 
+}
+
+.group-7 button span {
+    color: #ffffff !important;
+}
+
+.group-7 button a {
+    color: #ffffff !important;
+}
+
+.group-8 {
+    margin-top: 32px;
+}
+
+.group-9 button {
+    background: #00D27A;      
+    color: #ffffff;  
+}
+
+.group-9 button:hover {
+    background: rgb(72, 187, 223);
+    color: #ffffff; 
+}
+
+.group-9 button span {
+    color: #ffffff !important;
+}
+
+.group-9 .table tr td {
+    width: 16.7%;
+}
+
+.group-9 .table tr td + td {
+    color: #6c83c6;
+}
+
+.group-9 .table tr td + td + td {
+    color: #70cd41;
+}
+
+.group-9 .table tr td + td + td + td + td {
+    color: #e98a33;
+}
+
+.group-9 .table tbody tr td:not(:first-child) {
+    text-align: center;
+}
+
+.group-9 .table tr:first-child {
+    border-bottom: 2px solid #ccc;
+}
+
+.footer-nav {
+    background: #00D27A;    
+    height: 80px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.footer-nav p {
+    padding-top: 30px;
+    color: white;
+    font-size: 14px;
+}
